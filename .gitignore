@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual Environment
+venv/
+.env
+.env.*
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Outputs / uploads
+outputs/
+uploads/
+
+# Python cache / tooling
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# Build files
+dist/
+build/
+*.egg-info/
+
+# SQLite
+*.sqlite3
+*.db
