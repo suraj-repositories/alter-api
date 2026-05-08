@@ -24,6 +24,7 @@ Thumbs.db
 # Outputs / uploads
 outputs/
 uploads/
+storage/
 
 # Python cache / tooling
 .pytest_cache/
